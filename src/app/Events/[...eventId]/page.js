@@ -2,7 +2,8 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>Featured Page</div>
+    <h2>this is slug page</h2>
+   
   )
 }
 
